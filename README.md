@@ -15,10 +15,10 @@
 
 ### Screenshots of the project
 
-#### Login and Home Page
+#### Search Page
 ![](./images/ss1.jpeg)
 
-#### Application
+#### Result
 ![dashboard](./images/ss2.jpeg)
 
 
