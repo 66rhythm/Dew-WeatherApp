@@ -15,11 +15,11 @@
 
 ### Screenshots of the project
 
-#### Search Page
-![](./images/ss1.jpeg)
+#### Search and Result Page
+<img align="left" height="700px" src="./images/ss1.jpeg">
+<img height="715px" src="./images/ss2.jpeg">
 
-#### Result
-![dashboard](./images/ss2.jpeg)
+
 
 
 
